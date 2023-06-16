@@ -8,5 +8,5 @@
   :description ""
   :author "Nick Allen <nallen05@gmail.com>"
   :version "0.1"
-  :depends-on (:cl-ppcre :trivial-utf-8)
+  :depends-on (:cl-ppcre :trivial-utf-8 :cl-fad)
   :components ((:file "cl-ffc")))
